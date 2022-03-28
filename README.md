@@ -4,8 +4,8 @@ Please note that these are shared under the Creative Commons - Attribution - Sha
 
 This is a repository of various resources related to improving the flow of value delivery in your business. Explore the folders for tools and documents. To download, click on the "View Raw" or "Raw" button to download the files. We use GitHub so that we keep revision history and enhancements over time. We are also hoping that the community will help us expand our tools by submitting changes.
 
-If you want to share these resources, use this link: https://github.com/julia-wester/LagomSolutions
-Please email julia@lagom.solutions for more information, ideas or feedback.
+If you want to share these resources, use this link: https://github.com/julia-wester/EverydayKanban
+Please email julia@55degrees.se for more information, ideas or feedback.
 
 =======================================================================
 
